@@ -6,7 +6,6 @@ Full-Stack Web Developer 🖥️
 
 I am a person who is very interested in the progress of technology 🚀 But I'm new to programming, so I like to share what I know and, above all, learn from others. 🙋🏻‍♂️
 
-*   🌍  I'm based in Lima, Perú
 *   ✉️  You can contact me at [uriarte2001alexis@gmail.com](mailto:uriarte2001alexis@gmail.com)
 *   🧠  I'm learning Python
 *   ⚡  I am also a graphic designer! 🎨
