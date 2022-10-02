@@ -30,4 +30,4 @@ I was able to learn technologies such as:
 </p>
 
 **If you want to know more about me**
-*   ✉️ You can contact me by [Email](mailto:uriarte2001alexis@gmail.com) or by [Linkedln](https://www.linkedin.com/in/Auriarte20/)!
+*   ✉️ You can contact me by [email](mailto:uriarte2001alexis@gmail.com) or by [Linkedln](https://www.linkedin.com/in/Auriarte20/)!
