@@ -24,12 +24,3 @@ I am a person who is very interested in the progress of technology 🚀 But I'm 
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
-      
-### Sociales
-
-<p align="left"> <a href="https://discord.com/users/Alexis Uriarte#4679" target="_blank" rel="noreferrer"><img src="https: //raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https:/ /www.github.com/Auriarte20" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github .svg" ancho="32" altura="32" /></a> <a href="https://www.linkedin.com/in/Auriarte20" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator /main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
-### Insignias
-
-<b>Repositorios principales</b>
-
-<div width="100%" align="center"> <a href="https://github.com/Auriarte20/PI-Pokemon" align="left"><img align="left" width="45 %" src="https://github-readme-stats.vercel.app/api/pin/?username=Auriarte20&repo=PI-Pokemon&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=es" /></a> <a href="https://github.com/Auriarte20/PI-Alimentos" align="right"><img align="right" width="45%" src="https://github-readme-stats .vercel.app/api/pin/?username=Auriarte20&repo=PI-Food&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=es" /></a></div><br /><br /><br /><br /><br /><br /><br />
