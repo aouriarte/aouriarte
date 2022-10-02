@@ -9,7 +9,9 @@ I am a person who is very interested in the progress of technology 🚀 But I'm 
 *   🌍  I'm based in Lima, Perú
 *   ✉️  You can contact me at [uriarte2001alexis@gmail.com](mailto:uriarte2001alexis@gmail.com)
 *   🧠  I'm learning Python
-*   ⚡  I am also a graphic designer! 🎨### Skills 
+*   ⚡  I am also a graphic designer! 🎨
+
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -22,8 +24,9 @@ I am a person who is very interested in the progress of technology 🚀 But I'm 
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
-                    
-                  ### Socials
+      
+      
+### Socials
                   
                   
                 <p align="left">
