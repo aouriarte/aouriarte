@@ -6,7 +6,7 @@ I am a person who is very interested in the progress of technology. 🚀
 But I'm new to programming, so I like to share what I know and, above all, learn from others. 🙋🏻‍♂️
 (I am also a graphic designer! 🎨).
 
-📚 Now I am studying the HENRY. A bootcamp of +800 hours.
+📚 Now I am studying in HENRY. A bootcamp of +800 hours.
 I was able to learn technologies such as:
 
 ### Front-End:
