@@ -6,7 +6,7 @@
 
 <img src="./assets/Programmer.gif" width="600" height="400" />
 
-### Full-Stack Web Developer 🖥️
+## Full-Stack Web Developer 🖥️
 
 </div>
 
