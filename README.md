@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=Auriarte20&icon=5&color=0)](https://visitcount.itsvg.in)
 
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> welcome to my profile!
+<h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> welcome to my profile! </h1>
 
 ### Full-Stack Web Developer 🖥️
 
