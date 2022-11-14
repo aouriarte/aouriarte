@@ -4,9 +4,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=Auriarte20&icon=5&color=0)](https://visitcount.itsvg.in)
 
-### Full-Stack Web Developer 🖥️
+<img src="./assets/Programmer.gif" width="600" height="400" />
 
-<img src="./assets/Programmer.gif" width="700" height="500" />
+### Full-Stack Web Developer 🖥️
 
 </div>
 
