@@ -2,9 +2,9 @@
 
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> welcome to my profile! </h1>
 
-[![](https://visitcount.itsvg.in/api?id=Auriarte20&icon=5&color=0)](https://visitcount.itsvg.in)
+<img src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e47fgjyv7k23bs3tpq8imq2tdf299yjveksn3ddl1uw&rid=giphy.gif" width=200 />
 
-<img src="./assets/Programmer.gif" width="600" height="400" />
+[![](https://visitcount.itsvg.in/api?id=Auriarte20&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ## Full-Stack Web Developer 🖥️
 
