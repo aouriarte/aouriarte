@@ -20,7 +20,7 @@ I was able to learn technologies such as:
 ## 🖥️ Tech Stack:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,express,postgres,md,ai,ps" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,express,postgres,md,ai,ps,git" />
   </a>
 </p>
 
