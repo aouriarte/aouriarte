@@ -1,18 +1,27 @@
 <div align="center">
 
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Alexis Uriarte </h1>
+# ¡Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Alexis Uriarte </h1>
 
 <img src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e47fgjyv7k23bs3tpq8imq2tdf299yjveksn3ddl1uw&rid=giphy.gif" width=200 />
 
 [![](https://visitcount.itsvg.in/api?id=Auriarte20&icon=5&color=0)](https://visitcount.itsvg.in)
 
+[Spanish](./README-sp.md)
+
 ## Full-Stack Web Developer 🖥️
 
 </div>
 
-I'm a person who is very interested in the progress of technology. 🚀
-But I'm new to programming, so I like to share what I know and, above all, learn from others. 🙋🏻‍♂️
-(I'm also a graphic designer! 🎨).
+Welcome to my profile. I'm 21 years old, I'm a person who is very interested in the progress of technology. 🚀
+But I'm new to programming, so I like to share what I know and, above all, learn from others. 🫱🏼‍🫲🏼 <br/>
+🎯 My goal is to improve myself in all aspects of my life, striving to provide the best of myself every day. Both in the work aspect and the personal aspect. 
+
+## 🙋🏻‍♂️ About Me 
+
+* 🌍  I'm based in Lima, Peru.
+* 🧠  I'm learning TypeScript.
+* 🤝  I'm open to collaborating on web applications.
+* ⚡  I'm algo graphic designer! 🎨
 
 📚 Now I am studying in HENRY. A bootcamp of +800 hours.
 I was able to learn technologies such as:
