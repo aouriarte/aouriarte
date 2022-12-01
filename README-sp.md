@@ -1,29 +1,29 @@
 <div align="center">
 
-# ¡Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Alexis Uriarte </h1>
+# ¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Soy Alexis Uriarte </h1>
 
 <img src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e47fgjyv7k23bs3tpq8imq2tdf299yjveksn3ddl1uw&rid=giphy.gif" width=200 />
 
 [![](https://visitcount.itsvg.in/api?id=Auriarte20&icon=5&color=0)](https://visitcount.itsvg.in)
 
-[Spanish](./README-sp.md)
+[Inglés](./README.md)
 
-## Full-Stack Web Developer 🖥️
+## Desarrollador Web Full-Stack 🖥️
 
 </div>
 
-¡Welcome to my profile! I'm 21 years old. I'm a person who is very interested in the progress of technology, 🚀 but I'm new to programming, so I like to share what I know, and above all learn from others. 🫱🏼‍🫲🏼 <br/>
-🎯 My goal is to improve myself in all aspects of my life, striving to provide the best of myself every day. Both in the work aspect and the personal aspect. 
+¡Bienvenido a mi perfil! Tengo 21 años. Soy una persona que está muy interesada en el progreso de la tecnología, 🚀 pero soy nuevo en la programación, por lo que me gusta compartir lo que sé, y sobre todo aprender de los demás. 🫱🏼‍🫲🏼 <br/>
+🎯 Mi meta es superarme en todos los aspectos de mi vida, esforzándome por dar lo mejor de mí cada día. Tanto en el aspecto laboral como en el aspecto personal. 
 
-## 🙋🏻‍♂️ About Me 
+## 🙋🏻‍♂️ Sobre Mi
 
-* 🌍  I'm based in Lima, Peru.
-* 🧠  I'm currently learning TypeScript.
-* 🤝  I'm open to collaborating on web applications.
-* ⚡  Also I'm graphic designer! 🎨
+* 🌍  Vivo en Lima, Perú..
+* 🧠  Actualmente estoy aprendiendo TypeScript.
+* 🤝  Estoy abierto a colaborar en aplicaciones web.
+* ⚡  También soy diseñador gráfico! 🎨
 
-📚 Now I am studying in [HENRY](https://www.soyhenry.com/). A bootcamp of +800 hours. <br/>
-I was able to learn technologies such as:
+📚 Ahora estoy estudiando en [HENRY](https://www.soyhenry.com/). Un bootcamp de +800 horas. <br/>
+Pude aprender tecnologías como:
 
 ## 🖥️ Tech Stack:
 <p align="left">
@@ -41,5 +41,5 @@ I was able to learn technologies such as:
 
 ---
 
-### ✉️ If you want to know more about me
-* You can contact me by [email](mailto:uriarte2001alexis@gmail.com) or by [Linkedln](https://www.linkedin.com/in/Auriarte20/)!
+### ✉️ Si quieres saber más sobre mi
+* Puedes contactarme por [email](mailto:uriarte2001alexis@gmail.com) o por [Linkedln](https://www.linkedin.com/in/Auriarte20/)!
