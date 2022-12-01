@@ -22,7 +22,7 @@
 * 🤝  Estoy abierto a colaborar en aplicaciones web.
 * ⚡  También soy diseñador gráfico! 🎨
 
-📚 Ahora estoy estudiando en [HENRY](https://www.soyhenry.com/). Un bootcamp de +800 horas. <br/>
+📚 Ahora estoy estudiando en <a href="https://www.soyhenry.com" target="_blank">HENRY</a>. Un bootcamp de +800 horas. <br/>
 Pude aprender tecnologías como:
 
 ## 🖥️ Tech Stack:
