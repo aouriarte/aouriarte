@@ -25,14 +25,14 @@
 📚 Now I am studying in [HENRY](https://www.soyhenry.com). A bootcamp of +800 hours. <br/>
 I was able to learn technologies such as:
 
-## 🖥️ Tech Stack:
+## 🖥️ Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,express,postgres,git,md,ai,ps" />
   </a>
 </p>
 
-## 📈 My Stats:
+## 📈 My Stats
 <a href="http://www.github.com/auriarte20"><img src="https://github-readme-streak-stats.herokuapp.com/?user=auriarte20&stroke=0891b2&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=0891b2&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
 
 <a href="http://www.github.com/auriarte20"><img src="https://github-readme-stats.vercel.app/api?username=auriarte20&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="auriarte20's GitHub stats" /></a>
