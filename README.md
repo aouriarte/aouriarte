@@ -22,12 +22,12 @@
 * 🤝  I'm open to collaborating on web applications.
 * ⚡  Also I'm graphic designer! 🎨
 
-📚 Now I am studying in [HENRY](https://www.soyhenry.com/). A bootcamp of +800 hours. <br/>
+📚 Now I am studying in <a href="https://www.soyhenry.com" target="_blank">HENRY<a/>. A bootcamp of +800 hours. <br/>
 I was able to learn technologies such as:
 
 ## 🖥️ Tech Stack:
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,express,postgres,git,md,ai,ps" />
   </a>
 </p>
