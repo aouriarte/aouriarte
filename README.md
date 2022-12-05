@@ -22,7 +22,7 @@
 * 🤝  I'm open to collaborating on web applications.
 * ⚡  Also I'm graphic designer! 🎨
 
-📚 Now I am studying in [HENRY](https://www.soyhenry.com). A bootcamp of +800 hours. <br/>
+📚 I graduated of [HENRY](https://www.soyhenry.com). A bootcamp of +800 hours. <br/>
 I was able to learn technologies such as:
 
 ## 🖥️ Tech Stack
