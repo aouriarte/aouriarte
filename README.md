@@ -13,7 +13,8 @@
 </div>
 
 ¡Welcome to my profile! I'm 21 years old. I'm a person who is very interested in the progress of technology, 🚀 but I'm new to programming, so I like to share what I know, and above all learn from others. 🫱🏼‍🫲🏼 <br/>
-🎯 My goal is to improve myself in all aspects of my life, striving to provide the best of myself every day. Both in the work aspect and the personal aspect. 
+I am constantly learning and practicing as I seek to create solutions to problems that may arise. <br/>
+My goal is to improve myself in all aspects of my life, striving to provide the best of myself every day. Both in the work aspect and the personal aspect. 🎯
 
 ## 🙋🏻‍♂️ About Me 
 
