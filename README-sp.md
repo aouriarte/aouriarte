@@ -13,6 +13,7 @@
 </div>
 
 ¡Bienvenido a mi perfil! Tengo 21 años. Soy una persona que está muy interesada en el progreso de la tecnología, 🚀 pero soy nuevo en la programación, por lo que me gusta compartir lo que sé, y sobre todo aprender de los demás. 🫱🏼‍🫲🏼 <br/>
+Estoy en constante aprendizaje y práctica ya que busco crear soluciones a problemas que se pueden presentar. <br/>
 🎯 Mi meta es superarme en todos los aspectos de mi vida, esforzándome por dar lo mejor de mí cada día. Tanto en el aspecto laboral como en el aspecto personal. 
 
 ## 🙋🏻‍♂️ Sobre Mi
