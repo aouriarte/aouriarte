@@ -29,6 +29,7 @@ Estoy en constante aprendizaje y práctica ya que busco crear soluciones a probl
 Pude aprender tecnologías como:
 
 ## 🖥️ Tecnologías
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,express,postgres,git,md,ai,ps" />
@@ -36,7 +37,8 @@ Pude aprender tecnologías como:
 </p>
 
 ## 📈 Mis Estadísticas
-<a href="http://www.github.com/Auriarte20"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Auriarte20&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/aouriarte"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aouriarte&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/Auriarte20"><img src="https://github-readme-stats.vercel.app/api?username=Auriarte20&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="Auriarte20's GitHub stats" /></a>
 
@@ -45,4 +47,5 @@ Pude aprender tecnologías como:
 ---
 
 ### ✉️ Si quieres saber más sobre mi
+
 * Puedes contactarme por [email](mailto:uriarte2001alexis@gmail.com) o por [Linkedln](https://www.linkedin.com/in/Auriarte20/)!
