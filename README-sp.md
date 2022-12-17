@@ -16,7 +16,7 @@
 Estoy en constante aprendizaje y práctica ya que busco crear soluciones a problemas que se pueden presentar. <br/>
 🎯 Mi meta es superarme en todos los aspectos de mi vida, esforzándome por dar lo mejor de mí cada día. Tanto en el aspecto laboral como en el aspecto personal.
 
-⭐ Puedes ver mi [portafolio](https://auriarte20.github.io). 
+⭐ Puedes ver mi [portafolio](https://artedev.vercel.app). 
 
 ## 🙋🏻‍♂️ Sobre Mi
 
