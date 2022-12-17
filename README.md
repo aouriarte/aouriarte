@@ -16,7 +16,7 @@
 I am constantly learning and practicing as I seek to create solutions to problems that may arise. <br/>
 My goal is to improve myself in all aspects of my life, striving to provide the best of myself every day. Both in the work aspect and the personal aspect. 🎯
 
-⭐ You can see my [portfolio](https://auriarte20.github.io). 
+⭐ You can see my [portfolio](https://artedev.vercel.app). 
 
 ## 🙋🏻‍♂️ About Me 
 
