@@ -40,9 +40,9 @@ I was able to learn technologies such as:
 
 <a href="http://www.github.com/aouriarte"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aouriarte&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Auriarte20"><img src="https://github-readme-stats.vercel.app/api?username=Auriarte20&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="Auriarte20's GitHub stats" /></a>
+<a href="http://www.github.com/aouriarte"><img src="https://github-readme-stats.vercel.app/api?username=aouriarte&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="aouriarte's GitHub stats" /></a>
 
-<a href="https://github.com/auriarte20" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auriarte20&langs_count=10&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/aouriarte" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aouriarte&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ---
 
