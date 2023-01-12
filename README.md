@@ -32,7 +32,7 @@ I was able to learn technologies such as:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,express,postgres,git,md,ai,ps" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,styledcomponents,react,redux,nodejs,express,postgres,git,md,ai,ps" />
   </a>
 </p>
 
