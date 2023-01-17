@@ -48,4 +48,4 @@ Pude aprender tecnologías como:
 
 ### ✉️ Si quieres saber más sobre mi
 
-* Puedes contactarme por [email](mailto:uriarte2001alexis@gmail.com) o por [Linkedln](https://www.linkedin.com/in/Auriarte20/)!
+* Puedes contactarme por [email](mailto:uriarte2001alexis@gmail.com) o por [Linkedln](https://www.linkedin.com/in/aouriarte/)!
