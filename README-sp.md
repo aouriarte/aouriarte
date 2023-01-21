@@ -4,8 +4,6 @@
 
 <img src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e47fgjyv7k23bs3tpq8imq2tdf299yjveksn3ddl1uw&rid=giphy.gif" width=200 />
 
-[![](https://visitcount.itsvg.in/api?id=Auriarte20&icon=5&color=0)](https://visitcount.itsvg.in)
-
 [Inglés](./README.md)
 
 ## Desarrollador Web Full-Stack 🖥️
