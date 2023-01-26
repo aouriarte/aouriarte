@@ -24,9 +24,8 @@ Estoy en constante aprendizaje y práctica ya que busco crear soluciones a probl
 * ⚡  También soy diseñador gráfico! 🎨
 
 📚 Me gradué de [HENRY](https://www.soyhenry.com). Un bootcamp de +800 horas. <br/>
-Pude aprender tecnologías como:
 
-## 🖥️ Tecnologías
+## 🖥️ Mis Tecnologías
 
 <p align="left">
   <a href="https://skillicons.dev">
