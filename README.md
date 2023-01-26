@@ -24,9 +24,8 @@ My goal is to improve myself in all aspects of my life, striving to provide the 
 * ⚡  Also I'm graphic designer! 🎨
 
 📚 I graduated of [HENRY](https://www.soyhenry.com). A bootcamp of +800 hours. <br/>
-I was able to learn technologies such as:
 
-## 🖥️ Tech Stack
+## 🖥️ My Tech Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
