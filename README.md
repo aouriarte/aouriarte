@@ -27,11 +27,9 @@ My goal is to improve myself in all aspects of my life, striving to provide the 
 
 ## 🖥️ My Tech Stack
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,styledcomponents,react,redux,nodejs,express,postgres,git,md,ai,ps" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,styledcomponents,react,redux,nodejs,express,postgres,mongodb,sequelize,git,md,ai,ps" />
+</a>
 
 ## 📈 My Stats
 
@@ -39,7 +37,7 @@ My goal is to improve myself in all aspects of my life, striving to provide the 
 
 <a href="http://www.github.com/aouriarte"><img src="https://github-readme-stats.vercel.app/api?username=aouriarte&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="aouriarte's GitHub stats" /></a>
 
-<a href="https://github.com/aouriarte" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aouriarte&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/aouriarte"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aouriarte&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ---
 
