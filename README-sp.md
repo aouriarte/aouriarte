@@ -28,7 +28,7 @@ Estoy en constante aprendizaje y práctica ya que busco crear soluciones a probl
 ## 🖥️ Mis Tecnologías
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,styledcomponents,react,redux,nodejs,express,postgres,mongodb,sequelize,git,md,ai,ps" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,styledcomponents,react,redux,nodejs,express,sequelize,postgres,mongodb,git,md,ai,ps" />
 </a>
 
 ## 📈 Mis Estadísticas
