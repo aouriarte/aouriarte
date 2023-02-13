@@ -28,7 +28,7 @@ My goal is to improve myself in all aspects of my life, striving to provide the 
 ## 🖥️ My Tech Stack
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,styledcomponents,react,redux,nodejs,express,postgres,mongodb,sequelize,git,md,ai,ps" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,styledcomponents,react,redux,nodejs,express,sequelize,postgres,mongodb,git,md,ai,ps" />
 </a>
 
 ## 📈 My Stats
