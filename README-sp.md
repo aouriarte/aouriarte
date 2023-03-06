@@ -19,7 +19,7 @@ Estoy en constante aprendizaje y práctica ya que busco crear soluciones a probl
 ## 🙋🏻‍♂️ Sobre Mi
 
 * 🌍  Vivo en Lima, Perú.
-* 🧠  Actualmente estoy aprendiendo TypeScript y React Native.
+* 🧠  Actualmente estoy aprendiendo React Native.
 * 🤝  Estoy abierto a colaborar en aplicaciones web.
 * ⚡  También soy diseñador gráfico! 🎨
 
