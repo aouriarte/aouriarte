@@ -19,7 +19,7 @@ My goal is to improve myself in all aspects of my life, striving to provide the 
 ## 🙋🏻‍♂️ About Me 
 
 * 🌍  I'm based in Lima, Peru.
-* 🧠  I'm currently learning TypeScript and React Native.
+* 🧠  I'm currently learning React Native.
 * 🤝  I'm open to collaborating on web applications.
 * ⚡  Also I'm graphic designer! 🎨
 
