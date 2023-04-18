@@ -19,7 +19,7 @@ Estoy en constante aprendizaje y práctica ya que busco crear soluciones a probl
 ## 🙋🏻‍♂️ Sobre Mi
 
 * 🌍  Vivo en Lima, Perú.
-* 🧠  Actualmente estoy aprendiendo React Native.
+* 🧠  Actualmente estoy aprendiendo Next.js.
 * 🤝  Estoy abierto a colaborar en aplicaciones web.
 * ⚡  También soy diseñador gráfico! 🎨
 
@@ -28,7 +28,7 @@ Estoy en constante aprendizaje y práctica ya que busco crear soluciones a probl
 ## 🖥️ Mis Tecnologías
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,styledcomponents,react,redux,nodejs,express,sequelize,postgres,mongodb,git,md,ai,ps" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,styledcomponents,react,redux,nodejs,express,sequelize,postgres,mongodb,git,md" />
 </a>
 
 ## 📈 Mis Estadísticas
