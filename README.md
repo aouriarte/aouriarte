@@ -19,7 +19,7 @@ My goal is to improve myself in all aspects of my life, striving to provide the 
 ## 🙋🏻‍♂️ About Me 
 
 * 🌍  I'm based in Lima, Peru.
-* 🧠  I'm currently learning React Native.
+* 🧠  I'm currently learning Next.js.
 * 🤝  I'm open to collaborating on web applications.
 * ⚡  Also I'm graphic designer! 🎨
 
@@ -28,7 +28,7 @@ My goal is to improve myself in all aspects of my life, striving to provide the 
 ## 🖥️ My Tech Stack
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,styledcomponents,react,redux,nodejs,express,sequelize,postgres,mongodb,git,md,ai,ps" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,styledcomponents,react,redux,nodejs,express,sequelize,postgres,mongodb,git,md" />
 </a>
 
 ## 📈 My Stats
