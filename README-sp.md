@@ -10,16 +10,16 @@
 
 </div>
 
-¡Bienvenido a mi perfil! Tengo 21 años. Soy una persona que está muy interesada en el progreso de la tecnología, 🚀 pero soy nuevo en la programación, por lo que me gusta compartir lo que sé, y sobre todo aprender de los demás. 🫱🏼‍🫲🏼 <br/>
-Estoy en constante aprendizaje y práctica ya que busco crear soluciones a problemas que se pueden presentar. <br/>
-🎯 Mi meta es superarme en todos los aspectos de mi vida, esforzándome por dar lo mejor de mí cada día. Tanto en el aspecto laboral como en el aspecto personal.
+¡Bienvenido a mi perfil! Tengo 21 años. Soy una persona muy interesada en los avances de la tecnología, por ello me gusta compartir lo que sé y sobre todo aprender de los demás. 🫱🏼‍🫲🏼
+Estoy constantemente aprendiendo y practicando mientras busco crear soluciones a los problemas que puedan surgir.
+Mi objetivo es mejorar en todos los aspectos de mi vida, esforzándome por dar lo mejor de mí cada día! 🎯
 
-⭐ Puedes ver mi [portafolio](https://artedev.vercel.app). 
+⭐ Puedes ver mi portafolio [aquí](https://artedev.vercel.app). 
 
 ## 🙋🏻‍♂️ Sobre Mi
 
 * 🌍  Vivo en Lima, Perú.
-* 🧠  Actualmente estoy aprendiendo Next.js.
+* 🧠  Actualmente estoy aprendiendo PHP.
 * 🤝  Estoy abierto a colaborar en aplicaciones web.
 * ⚡  También soy diseñador gráfico! 🎨
 
