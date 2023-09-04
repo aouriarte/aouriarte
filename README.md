@@ -2,8 +2,6 @@
 
 # ¡Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Alexis Uriarte </h1>
 
-<img src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e47fgjyv7k23bs3tpq8imq2tdf299yjveksn3ddl1uw&rid=giphy.gif" width=200 />
-
 [Spanish](./README-sp.md)
 
 ## Full-Stack Web Developer 🖥️
