@@ -8,8 +8,8 @@
 
 </div>
 
-¡Bienvenido a mi perfil! Tengo 21 años. Soy una persona muy interesada en los avances de la tecnología, por ello me gusta compartir lo que sé y sobre todo aprender de los demás. 🫱🏼‍🫲🏼 </br>
-Estoy constantemente crecimiento y aprendizaje, ya que busco crear soluciones a problemas que se puedan presentar.
+¡Bienvenido a mi perfil! Tengo 22 años. Soy una persona muy interesada en los avances de la tecnología, por ello me gusta compartir lo que sé y sobre todo aprender de los demás. 🫱🏼‍🫲🏼 </br>
+Estoy constantemente en crecimiento y aprendizaje, ya que busco crear soluciones a problemas que se puedan presentar.
 Mi objetivo es mejorar en todos los aspectos de mi vida, esforzándome por dar lo mejor de mí cada día! 🎯
 
 ⭐ Puedes ver mi portafolio [aquí](https://artedev.vercel.app). 
@@ -17,7 +17,7 @@ Mi objetivo es mejorar en todos los aspectos de mi vida, esforzándome por dar l
 ## 🙋🏻‍♂️ Sobre Mi
 
 * 🌍  Vivo en Lima, Perú.
-* 🧠  Actualmente estoy aprendiendo PHP.
+* 🧠  Actualmente estoy aprendiendo TypeScript.
 * 🤝  Estoy abierto a colaborar en aplicaciones web.
 * ⚡  También soy diseñador gráfico! 🎨
 
