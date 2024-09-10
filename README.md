@@ -17,16 +17,17 @@ My goal is to improve myself in all aspects of my life, striving to provide the 
 ## 🙋🏻‍♂️ About Me 
 
 * 🌍  I'm based in Lima, Peru.
-* 🧠  I'm currently learning TypeScript.
+* 🧠  I'm currently learning Python.
 * 🤝  I'm open to collaborating on web applications.
 * ⚡  Also I'm Graphic Designer! 🎨
 
-📚 I graduated of [HENRY](https://www.soyhenry.com). A bootcamp of +800 hours. <br/>
+📚 Currently, I'm studying to become a Software Developer at [SENATI](https://www.senati.edu.pe/especialidades/tecnologias-de-la-informacion/desarrollo-de-software). <br/>
+📚 And I graduated of [HENRY](https://www.soyhenry.com). A bootcamp of +800 hours. 
 
 ## 🖥️ My Tech Stack
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,styledcomponents,react,redux,nodejs,express,sequelize,postgres,mongodb,git,md" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,tailwind,react,redux,nodejs,express,sequelize,postgres,mongodb,git,md" />
 </a>
 
 ## 📈 My Stats
