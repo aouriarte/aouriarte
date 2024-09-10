@@ -21,7 +21,7 @@ My goal is to improve myself in all aspects of my life, striving to provide the 
 * 🤝  I'm open to collaborating on web applications.
 * ⚡  Also I'm Graphic Designer! 🎨
 
-📚 Currently, I'm studying to become a Software Developer at [SENATI](https://www.senati.edu.pe/especialidades/tecnologias-de-la-informacion/desarrollo-de-software). <br/>
+📚 Currently, I'm studying a software Development degree in [SENATI](https://www.senati.edu.pe/especialidades/tecnologias-de-la-informacion/desarrollo-de-software). <br/>
 📚 And I graduated of [HENRY](https://www.soyhenry.com). A bootcamp of +800 hours. 
 
 ## 🖥️ My Tech Stack
