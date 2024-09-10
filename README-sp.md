@@ -17,11 +17,12 @@ Mi objetivo es mejorar en todos los aspectos de mi vida, esforzándome por dar l
 ## 🙋🏻‍♂️ Sobre Mi
 
 * 🌍  Vivo en Lima, Perú.
-* 🧠  Actualmente estoy aprendiendo TypeScript.
+* 🧠  Actualmente estoy aprendiendo Python.
 * 🤝  Estoy abierto a colaborar en aplicaciones web.
 * ⚡  También soy diseñador gráfico! 🎨
 
-📚 Me gradué de [HENRY](https://www.soyhenry.com). Un bootcamp de +800 horas. <br/>
+📚 Actualmente, estoy estudiando la carrera de Desarrollo de Software en [SENATI](https://www.senati.edu.pe/especialidades/tecnologias-de-la-informacion/desarrollo-de-software). <br/>
+📚 Me gradué de [HENRY](https://www.soyhenry.com). Un bootcamp de +800 horas.
 
 ## 🖥️ Mis Tecnologías
 
