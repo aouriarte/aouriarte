@@ -8,7 +8,7 @@
 
 </div>
 
-¡Welcome to my profile! I'm 22 years old. I'm someone who is very interested in the progress of technology, so I like to share what I know and learn from others. 🫱🏼‍🫲🏼 <br/>
+¡Welcome to my profile! I'm 23 years old. I'm someone who is very interested in the progress of technology, so I like to share what I know and learn with others. 🫱🏼‍🫲🏼 <br/>
 I'm constantly learning and practicing. I seek to create solutions to problems that may arise. <br/>
 My goal is to improve myself in all aspects of my life, striving to provide the best of myself every day! 🎯
 
@@ -21,7 +21,7 @@ My goal is to improve myself in all aspects of my life, striving to provide the 
 * 🤝  I'm open to collaborating on web applications.
 * ⚡  Also I'm Graphic Designer! 🎨
 
-📚 Currently, I'm studying a software Development degree in [SENATI](https://www.senati.edu.pe/especialidades/tecnologias-de-la-informacion/desarrollo-de-software). <br/>
+📚 Currently, I'm studying for a bachelor's degree in computer science at [CIBERTEC]. <br/>
 📚 And I graduated of [HENRY](https://www.soyhenry.com). A bootcamp of +800 hours. 
 
 ## 🖥️ My Tech Stack
