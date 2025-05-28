@@ -21,7 +21,7 @@ My goal is to improve myself in all aspects of my life, striving to provide the 
 * 🤝  I'm open to collaborating on web applications.
 * ⚡  Also I'm Graphic Designer! 🎨
 
-📚 Currently, I'm studying for a bachelor's degree in computer science at [CIBERTEC]. <br/>
+📚 Currently, I'm studying for a bachelor's degree in computer science at CIBERTEC. <br/>
 📚 And I graduated of [HENRY](https://www.soyhenry.com). A bootcamp of +800 hours. 
 
 ## 🖥️ My Tech Stack
