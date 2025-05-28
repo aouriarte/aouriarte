@@ -8,7 +8,7 @@
 
 </div>
 
-¡Bienvenido a mi perfil! Tengo 22 años. Soy una persona muy interesada en los avances de la tecnología, por ello me gusta compartir lo que sé y sobre todo aprender de los demás. 🫱🏼‍🫲🏼 </br>
+¡Bienvenido a mi perfil! Tengo 23 años. Soy una persona muy interesada en los avances de la tecnología, por ello me gusta compartir lo que sé y sobre todo aprender de los demás. 🫱🏼‍🫲🏼 </br>
 Estoy constantemente en crecimiento y aprendizaje, ya que busco crear soluciones a problemas que se puedan presentar.
 Mi objetivo es mejorar en todos los aspectos de mi vida, esforzándome por dar lo mejor de mí cada día! 🎯
 
@@ -21,7 +21,7 @@ Mi objetivo es mejorar en todos los aspectos de mi vida, esforzándome por dar l
 * 🤝  Estoy abierto a colaborar en aplicaciones web.
 * ⚡  También soy diseñador gráfico! 🎨
 
-📚 Actualmente, estoy estudiando la carrera de Desarrollo de Software en [SENATI](https://www.senati.edu.pe/especialidades/tecnologias-de-la-informacion/desarrollo-de-software). <br/>
+📚 Actualmente, estoy estudiando la carrera de Computación e Informática en CIBERTEC. <br/>
 📚 Me gradué de [HENRY](https://www.soyhenry.com). Un bootcamp de +800 horas.
 
 ## 🖥️ Mis Tecnologías
