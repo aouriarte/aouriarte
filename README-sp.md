@@ -8,7 +8,7 @@
 
 </div>
 
-¡Bienvenido a mi perfil! Tengo 23 años. Soy una persona muy interesada en los avances de la tecnología, por ello me gusta compartir lo que sé y sobre todo aprender de los demás. 🫱🏼‍🫲🏼 </br>
+¡Bienvenido a mi perfil! Tengo 23 años. Soy una persona muy interesada en los avances de la tecnología, me gusta compartir lo que sé y sobre todo aprender de los demás. 🫱🏼‍🫲🏼 </br>
 Estoy constantemente en crecimiento y aprendizaje, ya que busco crear soluciones a problemas que se puedan presentar.
 Mi objetivo es mejorar en todos los aspectos de mi vida, esforzándome por dar lo mejor de mí cada día! 🎯
 
@@ -17,7 +17,7 @@ Mi objetivo es mejorar en todos los aspectos de mi vida, esforzándome por dar l
 ## 🙋🏻‍♂️ Sobre Mi
 
 * 🌍  Vivo en Lima, Perú.
-* 🧠  Actualmente estoy aprendiendo Python.
+* 🧠  Actualmente estoy aprendiendo Java.
 * 🤝  Estoy abierto a colaborar en aplicaciones web.
 * ⚡  También soy diseñador gráfico! 🎨
 
@@ -27,7 +27,7 @@ Mi objetivo es mejorar en todos los aspectos de mi vida, esforzándome por dar l
 ## 🖥️ Mis Tecnologías
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,styledcomponents,react,redux,nodejs,express,sequelize,postgres,mongodb,git,md" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,html,css,tailwind,react,redux,nodejs,express,sequelize,postgres,mongodb,git" />
 </a>
 
 ## 📈 Mis Estadísticas
