@@ -8,7 +8,7 @@
 
 </div>
 
-¡Welcome to my profile! I'm 23 years old. I'm someone who is very interested in the progress of technology, I like to share what I know and learn with others. 🫱🏼‍🫲🏼 <br/>
+¡Welcome to my profile! I'm 23 years old. I'm someone who is very interested in the progress of technology, I like to share what I know and, more importantly, learn from others. 🫱🏼‍🫲🏼 <br/>
 I'm constantly learning and practicing. I seek to create solutions to problems that may arise. <br/>
 My goal is to improve myself in all aspects of my life, striving to provide the best of myself every day! 🎯
 
