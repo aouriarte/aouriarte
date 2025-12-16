@@ -8,7 +8,7 @@
 
 </div>
 
-¡Bienvenido a mi perfil! Tengo 23 años. Soy una persona muy interesada en los avances de la tecnología, me gusta compartir lo que sé y sobre todo aprender de los demás. 🫱🏼‍🫲🏼 </br>
+¡Bienvenido a mi perfil! Tengo 24 años. Estoy muy interesado en los avances de la tecnología, me gusta compartir lo que sé y sobre todo aprender de los demás. 🫱🏼‍🫲🏼 </br>
 Estoy constantemente en crecimiento y aprendizaje, ya que busco crear soluciones a problemas que se puedan presentar.
 Mi objetivo es mejorar en todos los aspectos de mi vida, esforzándome por dar lo mejor de mí cada día! 🎯
 
