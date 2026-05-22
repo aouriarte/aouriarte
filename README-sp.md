@@ -17,7 +17,7 @@ Mi objetivo es mejorar en todos los aspectos de mi vida, esforzándome por dar l
 ## 🙋🏻‍♂️ Sobre Mi
 
 * 🌍  Vivo en Lima, Perú.
-* 🧠  Actualmente estoy aprendiendo Java.
+* 🧠  Actualmente estoy aprendiendo Java y C++.
 * 🤝  Estoy abierto a colaborar en aplicaciones web.
 * ⚡  También soy diseñador gráfico! 🎨
 
