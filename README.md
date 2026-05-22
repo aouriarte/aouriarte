@@ -17,7 +17,7 @@ My goal is to improve myself in all aspects of my life, striving to provide the 
 ## 🙋🏻‍♂️ About Me 
 
 * 🌍  I'm based in Lima, Peru.
-* 🧠  I'm currently learning Java.
+* 🧠  I'm currently learning Java and C++.
 * 🤝  I'm open to collaborating on web applications.
 * ⚡  Also I'm Graphic Designer! 🎨
 
